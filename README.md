@@ -1,9 +1,9 @@
 # jasmine_sprout_ota
 
 You need:
-- Working LineageOS built from source
-- File hosting with direct links, for exaple AndroidFileHost
-- GitHub account
+ <br>- Working LineageOS built from source
+ <br>- File hosting with direct links, for exaple AndroidFileHost
+ <br>- GitHub account
 
 1) create public GitHub repository and create in it JSON file with following text:
 ```
@@ -22,15 +22,14 @@ You need:
 }
 ```
 "datetime" - build date in UNIX timestamp, see out/build_date.txt[/i
-"filename" - name of your OTA package
-"id" - update identificator, simply use password generator
-"romtype" - your build type (unofficial)
-"size" - OTA package size in bytes
-"url" - direct link to package
-"version" - ROM version
+ <br>"filename" - name of your OTA package
+ <br>"id" - update identificator, simply use password generator
+ <br>"romtype" - your build type (unofficial)
+ <br>"size" - OTA package size in bytes
+ <br>"url" - direct link to package
+ <br>"version" - ROM version
 
-2) Go to packages/apps/Updater/res/values and open file strings.xml
-Find URL define (updater_server_url):
+2) Go to packages/apps/Updater/res/values and open file strings.xml and find URL define (updater_server_url):
 ```
 <string name="updater_server_url" translatable="false">https://download.lineageos.org/api/v1/{device}/{type}/{incr}</string>
 ```

@@ -38,5 +38,4 @@ And copy here Raw of created JSON file, for exapmle:
 ```
 <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/marek-guran/jasmine_sprout_ota/main/ota.json</string>
 ```
-3) Build package with OTA support with usual method with making installclean
-Done! Now you have build with OTA support.
+3) Build package with OTA support with usual method with making installclean. Done! Now you have build with OTA support.

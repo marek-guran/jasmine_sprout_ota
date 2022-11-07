@@ -16,7 +16,7 @@ You need:
       "romtype": "unofficial",
       "size": 314572800,
       "url": "https://example.com/ota-package.zip",
-      "version": "16.0"
+      "version": "18.1"
     }
   ]
 }

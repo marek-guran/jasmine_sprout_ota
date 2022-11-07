@@ -2,7 +2,7 @@
 
 You need:
  <br>- Working LineageOS built from source
- <br>- File hosting with direct links, for exaple AndroidFileHost
+ <br>- File hosting with direct links, for example sourceforge
  <br>- GitHub account
 
 1) create public GitHub repository and create in it JSON file with following text:
@@ -21,7 +21,7 @@ You need:
   ]
 }
 ```
-"datetime" - build date in UNIX timestamp, see out/build_date.txt[/i
+"datetime" - build date in UNIX timestamp, see out/build_date.txt
  <br>"filename" - name of your OTA package
  <br>"id" - update identificator, simply use password generator
  <br>"romtype" - your build type (unofficial)

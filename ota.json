@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1667845973,
-      "filename": "ota-test-lineage-18.1-20221107-UNOFFICIAL-jasmine_sprout",
-      "id": "siv857b36bw70sdh5u4lr8rhp8gu4fyh",
+      "datetime": 1668327345,
+      "filename": "lineage-18.1-20221113-UNOFFICIAL-jasmine_sprout",
+      "id": "raa3e19iv16f38p6u3pvfg98ter6pior",
       "romtype": "unofficial",
-      "size": 732382835,
-      "url": "https://sourceforge.net/projects/lineageos-jasmine-sprout/files/ota-test-lineage-18.1-20221107-UNOFFICIAL-jasmine_sprout.zip/download",
+      "size": 732391297,
+      "url": "https://sourceforge.net/projects/lineageos-jasmine-sprout/files/lineage-18.1-20221113-UNOFFICIAL-jasmine_sprout.zip/download",
       "version": "18.1"
     }
   ]

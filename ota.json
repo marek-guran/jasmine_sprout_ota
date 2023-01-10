@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1670869569,
-      "filename": "lineage-18.1-20221212-UNOFFICIAL-jasmine_sprout.zip",
-      "id": "0m6ue85k8abxygx6vgjmyjr3qh7f4w77",
+      "datetime": 1673373330,
+      "filename": "lineage-18.1-20230110-UNOFFICIAL-jasmine_sprout.zip",
+      "id": "c21ay6mf6uz6ruhkryd8udtii10bvvo5",
       "romtype": "unofficial",
-      "size": 732884466,
-      "url": "https://sourceforge.net/projects/lineageos-jasmine-sprout/files/lineage-18.1-20221212-UNOFFICIAL-jasmine_sprout.zip/download",
+      "size": 732905642,
+      "url": "https://sourceforge.net/projects/lineageos-jasmine-sprout/files/lineage-18.1-20230110-UNOFFICIAL-jasmine_sprout.zip/download",
       "version": "18.1"
     }
   ]

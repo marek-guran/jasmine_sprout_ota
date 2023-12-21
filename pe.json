@@ -1,1 +1,17 @@
-
+[
+    {
+        "device": "jasmine_sprout",
+        "filename": "update.zip",
+        "download": "https://download.url/for/update_file.zip",
+        "timestamp": 1234567890,
+        "md5sum": "abcdef1234567890abcdef1234567890",
+        "version": "version_info",
+        "size": 123456789,
+        "donate_url": "https://www.buymeacoffee.com/hu0iOfdw13",
+        "website_url": "https://github.com/marek-guran",
+        "news_url": "example.com",
+        "maintainer": "Marek Guráň",
+        "maintainer_url": "https://github.com/marek-guran",
+        "forum_url": "example.com"
+    },
+]
